@@ -1,0 +1,20 @@
+{
+  "name": "chuchu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "qzce",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/core": "^0.6.0",
+    "@discordjs/rest": "^1.7.1",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  }
+}
